@@ -28,4 +28,4 @@ jobs:
         uses: ruchika-jain/package-action@1.0.1
         id: publish-action
         with: 
-            package-name: orgactionpkg
+            package-name: orgactionpkgcheck
